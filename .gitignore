@@ -1,0 +1,10 @@
+# Keys and secrets
+*.pem
+*.key
+.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
